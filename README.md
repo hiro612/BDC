@@ -1,2 +1,2 @@
 # BDC
-BDC
+BDC Coin Project
